@@ -1,5 +1,7 @@
 x= int(input("posa la teva edad: "))
 if x<18:
     print("Ets menor de edad")
+elif x>18:
+    print("Ets mayor de edad")
 else:
-    print("Ets mayos de edad")
+    print("Tens 18 anys")
