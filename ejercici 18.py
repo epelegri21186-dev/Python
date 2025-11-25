@@ -1,5 +1,5 @@
-def ex18():
-    v= 'aeiouáéíóúàèìòùÁÉÍÓÚÀÈÌÒÙAEIOU'
+def ex18(c):
+    v= 'aeiouáéíóúàèòÁÉÍÓÚÀÈÒAEIOU'
     if c in v:
         return True
     else:
