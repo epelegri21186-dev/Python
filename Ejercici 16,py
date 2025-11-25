@@ -5,4 +5,3 @@ def gran_de_tres():
     a=int(input('Introdueix un nombre: '))
     b=int(input('Introdueix un nombre: '))
     c=int(input('Introdueix un nombre: '))
-    
