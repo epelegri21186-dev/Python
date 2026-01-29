@@ -1,3 +1,5 @@
+def prestat(t,f,c):
+    
 n=int(input())
 for _ in range(n):
     f,c=map(int, input().split())
